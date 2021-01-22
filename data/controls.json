@@ -15986,7 +15986,7 @@
     "tier_raw": "Category",
     "tier": 1,
     "seq": 13,
-    "title": "Anomalies and Events ",
+    "title": "Anomalies and Events",
     "description": "Anomalous activity is detected and the potential impact of events is understood."
   },
   {
@@ -15996,7 +15996,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 69,
-    "title": null,
+    "title": "Anomalies and Events",
     "description": "A baseline of network operations and expected data flows for users and systems is established and managed"
   },
   {
@@ -16006,7 +16006,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 70,
-    "title": null,
+    "title": "Anomalies and Events",
     "description": "Detected events are analyzed to understand attack targets and methods"
   },
   {
@@ -16016,7 +16016,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 71,
-    "title": null,
+    "title": "Anomalies and Events",
     "description": "Event data are collected and correlated from multiple sources and sensors"
   },
   {
@@ -16026,7 +16026,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 72,
-    "title": null,
+    "title": "Anomalies and Events",
     "description": "Impact of events is determined"
   },
   {
@@ -16036,7 +16036,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 73,
-    "title": null,
+    "title": "Anomalies and Events",
     "description": "Incident alert thresholds are established"
   },
   {
@@ -16046,7 +16046,7 @@
     "tier_raw": "Category",
     "tier": 1,
     "seq": 14,
-    "title": "Security Continuous Monitoring ",
+    "title": "Security Continuous Monitoring",
     "description": "The information system and assets are monitored to identify cybersecurity events and verify the effectiveness of protective measures."
   },
   {
@@ -16056,7 +16056,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 74,
-    "title": null,
+    "title": "Security Continuous Monitoring",
     "description": "The network is monitored to detect potential cybersecurity events"
   },
   {
@@ -16066,7 +16066,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 75,
-    "title": null,
+    "title": "Security Continuous Monitoring",
     "description": "The physical environment is monitored to detect potential cybersecurity events"
   },
   {
@@ -16076,7 +16076,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 76,
-    "title": null,
+    "title": "Security Continuous Monitoring",
     "description": "Personnel activity is monitored to detect potential cybersecurity events"
   },
   {
@@ -16086,7 +16086,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 77,
-    "title": null,
+    "title": "Security Continuous Monitoring",
     "description": "Malicious code is detected"
   },
   {
@@ -16096,7 +16096,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 78,
-    "title": null,
+    "title": "Security Continuous Monitoring",
     "description": "Unauthorized mobile code is detected"
   },
   {
@@ -16106,7 +16106,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 79,
-    "title": null,
+    "title": "Security Continuous Monitoring",
     "description": "External service provider activity is monitored to detect potential cybersecurity events"
   },
   {
@@ -16116,7 +16116,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 80,
-    "title": null,
+    "title": "Security Continuous Monitoring",
     "description": "Monitoring for unauthorized personnel, connections, devices, and software is performed"
   },
   {
@@ -16126,7 +16126,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 81,
-    "title": null,
+    "title": "Security Continuous Monitoring",
     "description": "Vulnerability scans are performed"
   },
   {
@@ -16136,7 +16136,7 @@
     "tier_raw": "Category",
     "tier": 1,
     "seq": 15,
-    "title": "Detection Processes ",
+    "title": "Detection Processes",
     "description": "Detection processes and procedures are maintained and tested to ensure awareness of anomalous events."
   },
   {
@@ -16146,7 +16146,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 82,
-    "title": null,
+    "title": "Detection Processes",
     "description": "Roles and responsibilities for detection are well defined to ensure accountability"
   },
   {
@@ -16156,7 +16156,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 83,
-    "title": null,
+    "title": "Detection Processes",
     "description": "Detection activities comply with all applicable requirements"
   },
   {
@@ -16166,7 +16166,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 84,
-    "title": null,
+    "title": "Detection Processes",
     "description": "Detection processes are tested"
   },
   {
@@ -16176,7 +16176,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 85,
-    "title": null,
+    "title": "Detection Processes",
     "description": "Event detection information is communicated"
   },
   {
@@ -16186,7 +16186,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 86,
-    "title": null,
+    "title": "Detection Processes",
     "description": "Detection processes are continuously improved"
   },
   {
@@ -16206,7 +16206,7 @@
     "tier_raw": "Category",
     "tier": 1,
     "seq": 1,
-    "title": "Asset Management ",
+    "title": "Asset Management",
     "description": "The data, personnel, devices, systems, and facilities that enable the organization to achieve business purposes are identified and managed consistent with their relative importance to organizational objectives and the organization’s risk strategy."
   },
   {
@@ -16216,7 +16216,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 1,
-    "title": null,
+    "title": "Asset Management",
     "description": "Physical devices and systems within the organization are inventoried"
   },
   {
@@ -16226,7 +16226,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 2,
-    "title": null,
+    "title": "Asset Management",
     "description": "Software platforms and applications within the organization are inventoried"
   },
   {
@@ -16236,7 +16236,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 3,
-    "title": null,
+    "title": "Asset Management",
     "description": "Organizational communication and data flows are mapped"
   },
   {
@@ -16246,7 +16246,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 4,
-    "title": null,
+    "title": "Asset Management",
     "description": "External information systems are catalogued"
   },
   {
@@ -16256,7 +16256,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 5,
-    "title": null,
+    "title": "Asset Management",
     "description": "Resources (e.g., hardware, devices, data, time, personnel, and software) are prioritized based on their classification, criticality, and business value"
   },
   {
@@ -16266,7 +16266,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 6,
-    "title": null,
+    "title": "Asset Management",
     "description": "Cybersecurity roles and responsibilities for the entire workforce and third-party stakeholders (e.g., suppliers, customers, partners) are established"
   },
   {
@@ -16276,7 +16276,7 @@
     "tier_raw": "Category",
     "tier": 1,
     "seq": 2,
-    "title": "Business Environment ",
+    "title": "Business Environment",
     "description": "The organization’s mission, objectives, stakeholders, and activities are understood and prioritized; this information is used to inform cybersecurity roles, responsibilities, and risk management decisions."
   },
   {
@@ -16286,7 +16286,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 7,
-    "title": null,
+    "title": "Business Environment",
     "description": "The organization’s role in the supply chain is identified and communicated"
   },
   {
@@ -16296,7 +16296,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 8,
-    "title": null,
+    "title": "Business Environment",
     "description": "The organization’s place in critical infrastructure and its industry sector is identified and communicated"
   },
   {
@@ -16306,7 +16306,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 9,
-    "title": null,
+    "title": "Business Environment",
     "description": "Priorities for organizational mission, objectives, and activities are established and communicated"
   },
   {
@@ -16316,7 +16316,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 10,
-    "title": null,
+    "title": "Business Environment",
     "description": "Dependencies and critical functions for delivery of critical services are established"
   },
   {
@@ -16326,7 +16326,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 11,
-    "title": null,
+    "title": "Business Environment",
     "description": "Resilience requirements to support delivery of critical services are established for all operating states (e.g. under duress/attack, during recovery, normal operations)"
   },
   {
@@ -16336,7 +16336,7 @@
     "tier_raw": "Category",
     "tier": 1,
     "seq": 3,
-    "title": "Governance ",
+    "title": "Governance",
     "description": "The policies, procedures, and processes to manage and monitor the organization’s regulatory, legal, risk, environmental, and operational requirements are understood and inform the management of cybersecurity risk."
   },
   {
@@ -16346,7 +16346,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 12,
-    "title": null,
+    "title": "Governance",
     "description": "Organizational cybersecurity policy is established and communicated"
   },
   {
@@ -16356,7 +16356,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 13,
-    "title": null,
+    "title": "Governance",
     "description": "Cybersecurity roles and responsibilities are coordinated and aligned with internal roles and external partners"
   },
   {
@@ -16366,7 +16366,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 14,
-    "title": null,
+    "title": "Governance",
     "description": "Legal and regulatory requirements regarding cybersecurity, including privacy and civil liberties obligations, are understood and managed"
   },
   {
@@ -16376,7 +16376,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 15,
-    "title": null,
+    "title": "Governance",
     "description": "Governance and risk management processes address cybersecurity risks"
   },
   {
@@ -16386,7 +16386,7 @@
     "tier_raw": "Category",
     "tier": 1,
     "seq": 4,
-    "title": "Risk Assessment ",
+    "title": "Risk Assessment",
     "description": "The organization understands the cybersecurity risk to organizational operations (including mission, functions, image, or reputation), organizational assets, and individuals."
   },
   {
@@ -16396,7 +16396,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 16,
-    "title": null,
+    "title": "Risk Assessment",
     "description": "Asset vulnerabilities are identified and documented"
   },
   {
@@ -16406,7 +16406,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 17,
-    "title": null,
+    "title": "Risk Assessment",
     "description": "Cyber threat intelligence is received from information sharing forums and sources"
   },
   {
@@ -16416,7 +16416,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 18,
-    "title": null,
+    "title": "Risk Assessment",
     "description": "Threats, both internal and external, are identified and documented"
   },
   {
@@ -16426,7 +16426,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 19,
-    "title": null,
+    "title": "Risk Assessment",
     "description": "Potential business impacts and likelihoods are identified"
   },
   {
@@ -16436,7 +16436,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 20,
-    "title": null,
+    "title": "Risk Assessment",
     "description": "Threats, vulnerabilities, likelihoods, and impacts are used to determine risk"
   },
   {
@@ -16446,7 +16446,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 21,
-    "title": null,
+    "title": "Risk Assessment",
     "description": "Risk responses are identified and prioritized"
   },
   {
@@ -16456,7 +16456,7 @@
     "tier_raw": "Category",
     "tier": 1,
     "seq": 5,
-    "title": "Risk Management Strategy ",
+    "title": "Risk Management Strategy",
     "description": "The organization’s priorities, constraints, risk tolerances, and assumptions are established and used to support operational risk decisions."
   },
   {
@@ -16466,7 +16466,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 22,
-    "title": null,
+    "title": "Risk Management Strategy",
     "description": "Risk management processes are established, managed, and agreed to by organizational stakeholders"
   },
   {
@@ -16476,7 +16476,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 23,
-    "title": null,
+    "title": "Risk Management Strategy",
     "description": "Organizational risk tolerance is determined and clearly expressed"
   },
   {
@@ -16486,7 +16486,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 24,
-    "title": null,
+    "title": "Risk Management Strategy",
     "description": "The organization’s determination of risk tolerance is informed by its role in critical infrastructure and sector specific risk analysis"
   },
   {
@@ -16496,7 +16496,7 @@
     "tier_raw": "Category",
     "tier": 1,
     "seq": 6,
-    "title": "Supply Chain Risk Management ",
+    "title": "Supply Chain Risk Management",
     "description": "The organization’s priorities, constraints, risk tolerances, and assumptions are established and used to support risk decisions associated with managing supply chain risk. The organization has established and implemented the processes to identify, assess and manage supply chain risks."
   },
   {
@@ -16506,7 +16506,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 25,
-    "title": null,
+    "title": "Supply Chain Risk Management",
     "description": "Cyber supply chain risk management processes are identified, established, assessed, managed, and agreed to by organizational stakeholders"
   },
   {
@@ -16516,7 +16516,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 26,
-    "title": null,
+    "title": "Supply Chain Risk Management",
     "description": "Suppliers and third party partners of information systems, components, and services are identified, prioritized, and assessed using a cyber supply chain risk assessment process"
   },
   {
@@ -16526,7 +16526,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 27,
-    "title": null,
+    "title": "Supply Chain Risk Management",
     "description": "Contracts with suppliers and third-party partners are used to implement appropriate measures designed to meet the objectives of an organization’s cybersecurity program and Cyber Supply Chain Risk Management Plan."
   },
   {
@@ -16536,7 +16536,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 28,
-    "title": null,
+    "title": "Supply Chain Risk Management",
     "description": "Suppliers and third-party partners are routinely assessed using audits, test results, or other forms of evaluations to confirm they are meeting their contractual obligations."
   },
   {
@@ -16546,7 +16546,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 29,
-    "title": null,
+    "title": "Supply Chain Risk Management",
     "description": "Response and recovery planning and testing are conducted with suppliers and third-party providers"
   },
   {
@@ -16566,7 +16566,7 @@
     "tier_raw": "Category",
     "tier": 1,
     "seq": 7,
-    "title": "Identity Management, Authentication and Access Control ",
+    "title": "Identity Management, Authentication and Access Control",
     "description": "Access to physical and logical assets and associated facilities is limited to authorized users, processes, and devices, and is managed consistent with the assessed risk of unauthorized access to authorized activities and transactions."
   },
   {
@@ -16576,7 +16576,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 30,
-    "title": null,
+    "title": "Identity Management, Authentication and Access Control",
     "description": "Identities and credentials are issued, managed, verified, revoked, and audited for authorized devices, users and processes"
   },
   {
@@ -16586,7 +16586,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 31,
-    "title": null,
+    "title": "Identity Management, Authentication and Access Control",
     "description": "Physical access to assets is managed and protected"
   },
   {
@@ -16596,7 +16596,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 32,
-    "title": null,
+    "title": "Identity Management, Authentication and Access Control",
     "description": "Remote access is managed"
   },
   {
@@ -16606,7 +16606,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 33,
-    "title": null,
+    "title": "Identity Management, Authentication and Access Control",
     "description": "Access permissions and authorizations are managed, incorporating the principles of least privilege and separation of duties"
   },
   {
@@ -16616,7 +16616,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 34,
-    "title": null,
+    "title": "Identity Management, Authentication and Access Control",
     "description": "Network integrity is protected (e.g., network segregation, network segmentation)"
   },
   {
@@ -16626,7 +16626,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 35,
-    "title": null,
+    "title": "Identity Management, Authentication and Access Control",
     "description": "Identities are proofed and bound to credentials and asserted in interactions"
   },
   {
@@ -16636,7 +16636,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 36,
-    "title": null,
+    "title": "Identity Management, Authentication and Access Control",
     "description": "Users, devices, and other assets are authenticated (e.g., single-factor, multi-factor) commensurate with the risk of the transaction (e.g., individuals’ security and privacy risks and other organizational risks)"
   },
   {
@@ -16646,7 +16646,7 @@
     "tier_raw": "Category",
     "tier": 1,
     "seq": 8,
-    "title": "Awareness and Training ",
+    "title": "Awareness and Training",
     "description": "The organization’s personnel and partners are provided cybersecurity awareness education and are trained to perform their cybersecurity-related duties and responsibilities consistent with related policies, procedures, and agreements."
   },
   {
@@ -16656,7 +16656,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 37,
-    "title": null,
+    "title": "Awareness and Training",
     "description": "All users are informed and trained"
   },
   {
@@ -16666,7 +16666,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 38,
-    "title": null,
+    "title": "Awareness and Training",
     "description": "Privileged users understand their roles and responsibilities"
   },
   {
@@ -16676,7 +16676,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 39,
-    "title": null,
+    "title": "Awareness and Training",
     "description": "Third-party stakeholders (e.g., suppliers, customers, partners) understand their roles and responsibilities"
   },
   {
@@ -16686,7 +16686,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 40,
-    "title": null,
+    "title": "Awareness and Training",
     "description": "Senior executives understand their roles and responsibilities"
   },
   {
@@ -16696,7 +16696,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 41,
-    "title": null,
+    "title": "Awareness and Training",
     "description": "Physical and cybersecurity personnel understand their roles and responsibilities"
   },
   {
@@ -16706,7 +16706,7 @@
     "tier_raw": "Category",
     "tier": 1,
     "seq": 9,
-    "title": "Data Security ",
+    "title": "Data Security",
     "description": "Information and records (data) are managed consistent with the organization’s risk strategy to protect the confidentiality, integrity, and availability of information."
   },
   {
@@ -16716,7 +16716,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 42,
-    "title": null,
+    "title": "Data Security",
     "description": "Data-at-rest is protected"
   },
   {
@@ -16726,7 +16726,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 43,
-    "title": null,
+    "title": "Data Security",
     "description": "Data-in-transit is protected"
   },
   {
@@ -16736,7 +16736,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 44,
-    "title": null,
+    "title": "Data Security",
     "description": "Assets are formally managed throughout removal, transfers, and disposition"
   },
   {
@@ -16746,7 +16746,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 45,
-    "title": null,
+    "title": "Data Security",
     "description": "Adequate capacity to ensure availability is maintained"
   },
   {
@@ -16756,7 +16756,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 46,
-    "title": null,
+    "title": "Data Security",
     "description": "Protections against data leaks are implemented"
   },
   {
@@ -16766,7 +16766,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 47,
-    "title": null,
+    "title": "Data Security",
     "description": "Integrity checking mechanisms are used to verify software, firmware, and information integrity"
   },
   {
@@ -16776,7 +16776,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 48,
-    "title": null,
+    "title": "Data Security",
     "description": "The development and testing environment(s) are separate from the production environment"
   },
   {
@@ -16786,7 +16786,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 49,
-    "title": null,
+    "title": "Data Security",
     "description": "Integrity checking mechanisms are used to verify hardware integrity"
   },
   {
@@ -16796,7 +16796,7 @@
     "tier_raw": "Category",
     "tier": 1,
     "seq": 10,
-    "title": "Information Protection Processes and Procedures ",
+    "title": "Information Protection Processes and Procedures",
     "description": "Security policies (that address purpose, scope, roles, responsibilities, management commitment, and coordination among organizational entities), processes, and procedures are maintained and used to manage protection of information systems and assets."
   },
   {
@@ -16806,7 +16806,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 50,
-    "title": null,
+    "title": "Information Protection Processes and Procedures",
     "description": "A baseline configuration of information technology/industrial control systems is created and maintained incorporating security principles (e.g. concept of least functionality)"
   },
   {
@@ -16816,7 +16816,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 59,
-    "title": null,
+    "title": "Information Protection Processes and Procedures",
     "description": "Response and recovery plans are tested"
   },
   {
@@ -16826,7 +16826,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 60,
-    "title": null,
+    "title": "Information Protection Processes and Procedures",
     "description": "Cybersecurity is included in human resources practices (e.g., deprovisioning, personnel screening)"
   },
   {
@@ -16836,7 +16836,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 61,
-    "title": null,
+    "title": "Information Protection Processes and Procedures",
     "description": "A vulnerability management plan is developed and implemented"
   },
   {
@@ -16846,7 +16846,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 51,
-    "title": null,
+    "title": "Information Protection Processes and Procedures",
     "description": "A System Development Life Cycle to manage systems is implemented"
   },
   {
@@ -16856,7 +16856,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 52,
-    "title": null,
+    "title": "Information Protection Processes and Procedures",
     "description": "Configuration change control processes are in place"
   },
   {
@@ -16866,7 +16866,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 53,
-    "title": null,
+    "title": "Information Protection Processes and Procedures",
     "description": "Backups of information are conducted, maintained, and tested"
   },
   {
@@ -16876,7 +16876,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 54,
-    "title": null,
+    "title": "Information Protection Processes and Procedures",
     "description": "Policy and regulations regarding the physical operating environment for organizational assets are met"
   },
   {
@@ -16886,7 +16886,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 55,
-    "title": null,
+    "title": "Information Protection Processes and Procedures",
     "description": "Data is destroyed according to policy"
   },
   {
@@ -16896,7 +16896,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 56,
-    "title": null,
+    "title": "Information Protection Processes and Procedures",
     "description": "Protection processes are improved"
   },
   {
@@ -16906,7 +16906,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 57,
-    "title": null,
+    "title": "Information Protection Processes and Procedures",
     "description": "Effectiveness of protection technologies is shared"
   },
   {
@@ -16916,7 +16916,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 58,
-    "title": null,
+    "title": "Information Protection Processes and Procedures",
     "description": "Response plans (Incident Response and Business Continuity) and recovery plans (Incident Recovery and Disaster Recovery) are in place and managed"
   },
   {
@@ -16926,7 +16926,7 @@
     "tier_raw": "Category",
     "tier": 1,
     "seq": 11,
-    "title": "Maintenance ",
+    "title": "Maintenance",
     "description": "Maintenance and repairs of industrial control and information system components are performed consistent with policies and procedures."
   },
   {
@@ -16936,7 +16936,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 62,
-    "title": null,
+    "title": "Maintenance",
     "description": "Maintenance and repair of organizational assets are performed and logged, with approved and controlled tools"
   },
   {
@@ -16946,7 +16946,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 63,
-    "title": null,
+    "title": "Maintenance",
     "description": "Remote maintenance of organizational assets is approved, logged, and performed in a manner that prevents unauthorized access"
   },
   {
@@ -16956,7 +16956,7 @@
     "tier_raw": "Category",
     "tier": 1,
     "seq": 12,
-    "title": "Protective Technology ",
+    "title": "Protective Technology",
     "description": "Technical security solutions are managed to ensure the security and resilience of systems and assets, consistent with related policies, procedures, and agreements."
   },
   {
@@ -16966,7 +16966,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 64,
-    "title": null,
+    "title": "Protective Technolog",
     "description": "Audit/log records are determined, documented, implemented, and reviewed in accordance with policy"
   },
   {
@@ -16976,7 +16976,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 65,
-    "title": null,
+    "title": "Protective Technolog",
     "description": "Removable media is protected and its use restricted according to policy"
   },
   {
@@ -16986,7 +16986,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 66,
-    "title": null,
+    "title": "Protective Technolog",
     "description": "The principle of least functionality is incorporated by configuring systems to provide only essential capabilities"
   },
   {
@@ -16996,7 +16996,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 67,
-    "title": null,
+    "title": "Protective Technolog",
     "description": "Communications and control networks are protected"
   },
   {
@@ -17006,7 +17006,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 68,
-    "title": null,
+    "title": "Protective Technolog",
     "description": "Mechanisms (e.g., failsafe, load balancing, hot swap) are implemented to achieve resilience requirements in normal and adverse situations"
   },
   {
@@ -17026,7 +17026,7 @@
     "tier_raw": "Category",
     "tier": 1,
     "seq": 23,
-    "title": "Communications ",
+    "title": "Communications",
     "description": "Restoration activities are coordinated with internal and external parties (e.g. coordinating centers, Internet Service Providers, owners of attacking systems, victims, other CSIRTs, and vendors)."
   },
   {
@@ -17036,7 +17036,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 101,
-    "title": null,
+    "title": "Communications",
     "description": "Public relations are managed"
   },
   {
@@ -17046,7 +17046,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 102,
-    "title": null,
+    "title": "Communications",
     "description": "Reputation is repaired after an incident"
   },
   {
@@ -17056,7 +17056,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 102,
-    "title": null,
+    "title": "Communications",
     "description": "Recovery activities are communicated to internal and external stakeholders as well as executive and management teams"
   },
   {
@@ -17066,7 +17066,7 @@
     "tier_raw": "Category",
     "tier": 1,
     "seq": 22,
-    "title": "Improvements ",
+    "title": "Improvements",
     "description": "Recovery planning and processes are improved by incorporating lessons learned into future activities."
   },
   {
@@ -17076,7 +17076,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 99,
-    "title": null,
+    "title": "Improvements",
     "description": "Recovery plans incorporate lessons learned"
   },
   {
@@ -17086,7 +17086,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 100,
-    "title": null,
+    "title": "Improvements",
     "description": "Recovery strategies are updated"
   },
   {
@@ -17096,7 +17096,7 @@
     "tier_raw": "Category",
     "tier": 1,
     "seq": 21,
-    "title": "Recovery Planning ",
+    "title": "Recovery Planning",
     "description": "Recovery processes and procedures are executed and maintained to ensure restoration of systems or assets affected by cybersecurity incidents."
   },
   {
@@ -17106,7 +17106,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 98,
-    "title": null,
+    "title": "Recovery Planning",
     "description": "Recovery plan is executed during or after a cybersecurity incident"
   },
   {
@@ -17126,7 +17126,7 @@
     "tier_raw": "Category",
     "tier": 1,
     "seq": 18,
-    "title": "Analysis ",
+    "title": "Analysis",
     "description": "Analysis is conducted to ensure effective response and support recovery activities."
   },
   {
@@ -17136,7 +17136,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 93,
-    "title": null,
+    "title": "Analysis",
     "description": "Notifications from detection systems are investigated "
   },
   {
@@ -17146,7 +17146,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 94,
-    "title": null,
+    "title": "Analysis",
     "description": "The impact of the incident is understood"
   },
   {
@@ -17156,7 +17156,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 95,
-    "title": null,
+    "title": "Analysis",
     "description": "Forensics are performed"
   },
   {
@@ -17166,7 +17166,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 96,
-    "title": null,
+    "title": "Analysis",
     "description": "Incidents are categorized consistent with response plans"
   },
   {
@@ -17176,7 +17176,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 97,
-    "title": null,
+    "title": "Analysis",
     "description": "Processes are established to receive, analyze and respond to vulnerabilities disclosed to the organization from internal and external sources (e.g. internal testing, security bulletins, or security researchers)"
   },
   {
@@ -17186,7 +17186,7 @@
     "tier_raw": "Category",
     "tier": 1,
     "seq": 17,
-    "title": "Communications ",
+    "title": "Communications",
     "description": "Response activities are coordinated with internal and external stakeholders (e.g. external support from law enforcement agencies)."
   },
   {
@@ -17196,7 +17196,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 88,
-    "title": null,
+    "title": "Communications",
     "description": "Personnel know their roles and order of operations when a response is needed"
   },
   {
@@ -17206,7 +17206,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 89,
-    "title": null,
+    "title": "Communications",
     "description": "Incidents are reported consistent with established criteria"
   },
   {
@@ -17216,7 +17216,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 90,
-    "title": null,
+    "title": "Communications",
     "description": "Information is shared consistent with response plans"
   },
   {
@@ -17226,7 +17226,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 91,
-    "title": null,
+    "title": "Communications",
     "description": "Coordination with stakeholders occurs consistent with response plans"
   },
   {
@@ -17236,7 +17236,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 92,
-    "title": null,
+    "title": "Communications",
     "description": "Voluntary information sharing occurs with external stakeholders to achieve broader cybersecurity situational awareness"
   },
   {
@@ -17246,7 +17246,7 @@
     "tier_raw": "Category",
     "tier": 1,
     "seq": 20,
-    "title": "Improvements ",
+    "title": "Improvements",
     "description": "Organizational response activities are improved by incorporating lessons learned from current and previous detection/response activities."
   },
   {
@@ -17256,7 +17256,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 96,
-    "title": null,
+    "title": "Improvements",
     "description": "Response plans incorporate lessons learned"
   },
   {
@@ -17266,7 +17266,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 97,
-    "title": null,
+    "title": "Improvements",
     "description": "Response strategies are updated"
   },
   {
@@ -17276,7 +17276,7 @@
     "tier_raw": "Category",
     "tier": 1,
     "seq": 19,
-    "title": "Mitigation ",
+    "title": "Mitigation",
     "description": "Activities are performed to prevent expansion of an event, mitigate its effects, and resolve the incident."
   },
   {
@@ -17286,7 +17286,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 93,
-    "title": null,
+    "title": "Mitigation",
     "description": "Incidents are contained"
   },
   {
@@ -17296,7 +17296,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 94,
-    "title": null,
+    "title": "Mitigation",
     "description": "Incidents are mitigated"
   },
   {
@@ -17306,7 +17306,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 95,
-    "title": null,
+    "title": "Mitigation",
     "description": "Newly identified vulnerabilities are mitigated or documented as accepted risks"
   },
   {
@@ -17316,7 +17316,7 @@
     "tier_raw": "Category",
     "tier": 1,
     "seq": 16,
-    "title": "Response Planning ",
+    "title": "Response Planning",
     "description": "Response processes and procedures are executed and maintained, to ensure response to detected cybersecurity incidents."
   },
   {
@@ -17326,7 +17326,7 @@
     "tier_raw": "Subcategory",
     "tier": 2,
     "seq": 87,
-    "title": null,
+    "title": "Response Planning",
     "description": "Response plan is executed during or after an incident"
   },
   {
